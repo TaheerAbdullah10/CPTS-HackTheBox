@@ -1,8 +1,8 @@
 # CPTS — HackTheBox Writeups
 
 **Author:** Taheer Abdullah
-**GitHub:** [your-github-username]
-**LinkedIn:** [your-linkedin-url]
+**GitHub:** [https://github.com/TaheerAbdullah10]
+**LinkedIn:** [https://www.linkedin.com/in/taheer-abdullah-474368419/]
 
 My writeups and notes while preparing for the **HTB Certified Penetration Testing Specialist (CPTS)** certification, working through HTB Academy's Penetration Tester job-role path and HTB Labs machines.
 
